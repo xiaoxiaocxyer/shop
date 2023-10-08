@@ -8,11 +8,11 @@
 以Spring框架为基础，数据库使用的是mysql数据库。<br>
 该系统功能完善，界面美观，非常适合作为毕设或者课程作业以及新手开发学习。<br>
 
-## 功能介绍
-<img src="./images/gn.jpg" width="600" height="500" /><br>
-
 ## 视频介绍
 <a href="https://www.bilibili.com/video/BV1tj41147eP/?spm_id_from=333.999.0.0" target="_blank">点击查看B站视频介绍</a>
+
+## 功能介绍
+<img src="./images/gn.jpg" width="600" height="500" /><br>
 
 ## 技术服务
 <img src="./images/my.jpg" width="200" height="200" />
